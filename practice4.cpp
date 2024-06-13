@@ -8,4 +8,5 @@ int main()
         cout << a << "\t";
     }
     return 0;
+    
 }
